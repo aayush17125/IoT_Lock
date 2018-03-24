@@ -1,0 +1,6 @@
+1. Get the lock working.
+2. Add LOG files.
+3. Make a 3D Object.
+4. Make a website.
+5. RFID/NFC.
+6. 
